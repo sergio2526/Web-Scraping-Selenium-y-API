@@ -1,4 +1,4 @@
-###Web Scraping con selenium
+# Web Scraping con selenium
 
 Se utilizo la librería de selenium para automatizar la pagina web de platzi en su respectiva categoría de carrera e ingeniería.
 
