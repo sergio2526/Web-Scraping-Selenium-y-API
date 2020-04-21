@@ -6,4 +6,4 @@ Se obtuvieron las rutas de la carrera con sus respectivos atributos (numero de c
 
 ### Web Scraping Api spotify
 
-Nos conectamos a la Api de spotify donde buscamos el artista [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) en la cual obtenemos por medio de scraping su album y las canciones, al final del script se podrá scuchar la canción a la cual escogimos como preferencia.
+Se obtiene por medio de la Api de spotify al artista [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) en la cual obtenemos por medio de scraping su album y sus canciones, al final del script se podrá escuchar en el notebook la canción a la cual se escogio como preferencia.
